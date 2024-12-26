@@ -1,0 +1,11 @@
+Nicoleta,lovitura la deget,ortopedie,Ionut,2024.07.22
+Ana,picior,ortopedie,George,2025.06.22
+Mihai,cap,ortopedie,medic ortoped,2024.07.24
+Anastasia,uyk,chirurgie,Ionut,2024.06.23
+mariusel,uyk,cardiologie,Matei,2025.06.23
+Carmen,inima,cardiologie,Matei,2025.05.24
+Razvan,prost,chirurgie,Ionut,2025.04.22
+Matei,undiagnosed,,,2024.07.23
+gigel,undiagnosed,,,2024.07.22
+marianica,whatever,pediatrie,something,2024.07.23
+different,undiagnosed,,,2024.07.23
